@@ -1,0 +1,55 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+}
+
+.col {
+    display: flex;
+    border: black solid 3px;
+    background-color: lightblue;
+    height: 130px;
+    width: 130px;
+    text-align: center;
+}
+
+.col-2 {
+    display: flex;
+    border: black solid 3px;
+    background-color: lightblue;
+    height: 44px;
+    width: 44px;
+    text-align: center;
+}
+
+.col-3 {
+    display: flex;
+    border: black solid 3px;
+    background-color: lightblue;
+    height: 26px;
+    width: 26px;
+    text-align: center;
+}
+
+.col-4 {
+    display: flex;
+    border: black solid 3px;
+    background-color: lightblue;
+    height: 52px;
+    width: 52px;
+    text-align: center;
+}
+
+.col-5 {
+    display: flex;
+    border: black solid 3px;
+    background-color: lightblue;
+    height: 78px;
+    width: 78px;
+    text-align: center;
+}
